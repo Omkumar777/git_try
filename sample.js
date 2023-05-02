@@ -5,5 +5,5 @@ console.log(a+b);
 console.log(b-a);
 
 function abc(){
-    return a+b
+    return main + a
 }
